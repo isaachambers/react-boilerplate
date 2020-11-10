@@ -1,0 +1,1 @@
+Sample Boilerplate for react projects
