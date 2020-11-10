@@ -1,1 +1,1 @@
-Sample Boilerplate for react projects
+Sample Simple Boilerplate for react projects
